@@ -2,10 +2,10 @@
   <img src="./screenshots/logo.png" width="120" alt="AdaBazaar Logo"/>
 </p>
 
-<h1 align="center">📱 AdaBazaar (Kıbrıs Market)</h1>
+<h1 align="center">📱 AdaBazaar</h1>
 
 <p align="center">
-  <b>A modern cross-platform marketplace mobile & web application designed for Northern Cyprus (KKTC).</b>
+  <b>A modern cross-platform marketplace mobile & web application.</b>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="./demo.gif" width="600" alt="AdaBazaar Demo"/>
+  <img src="./demo.gif" width="300" alt="AdaBazaar Demo"/>
 </p>
 
 ---
@@ -26,10 +26,14 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./screenshots/home.png" width="220" alt="Home Screen"/>
-  <img src="./screenshots/login.png" width="220" alt="Login Screen"/>
-  <img src="./screenshots/details.png" width="220" alt="Details Screen"/>
-  <img src="./screenshots/profile.png" width="220" alt="Profile Screen"/>
+  <img src="./screenshots/1.png" width="200" alt="Screenshot 1"/>
+  <img src="./screenshots/2.png" width="200" alt="Screenshot 2"/>
+  <img src="./screenshots/3.png" width="200" alt="Screenshot 3"/>
+</p>
+<p align="center">
+  <img src="./screenshots/4.png" width="200" alt="Screenshot 4"/>
+  <img src="./screenshots/5.png" width="200" alt="Screenshot 5"/>
+  <img src="./screenshots/6.png" width="200" alt="Screenshot 6"/>
 </p>
 
 ---
@@ -37,13 +41,13 @@
 ## 🚀 Features
 
 - 🔐 **Secure Authentication**: Firebase Auth integration supporting email, phone, and social login with role-based permissions.
-- 🛍️ **Marketplace & Classifieds**: Comprehensive categories (Second-hand, Vehicles, Real Estate, Student essentials) supporting multi-currency pricing (TRY, USD, EUR, GBP).
-- 💬 **Real-Time Messaging & Negotiation**: Instant buyer-seller chat with built-in price offer and negotiation mechanisms.
-- 📍 **Location-Based Filtering**: Search listings filtered by districts across Northern Cyprus (Girne, Lefkoşa, Gazimağusa, İskele, Güzelyurt, Lefke).
-- 🌐 **Multilingual Support (TR/EN)**: Native Turkish and English language switching.
-- 🔔 **Push Notifications**: Real-time Firebase Cloud Messaging (FCM) alerts for new messages, price drops, and announcements.
-- 🌙 **Dark & Light Themes**: Dynamic responsive UI designed with modern glassmorphism aesthetic.
-- ⚡ **High Performance Architecture**: Real-time Firestore synchronization and Supabase CDN storage.
+- 🛍️ **Marketplace & Classifieds**: Comprehensive categories (Second-hand goods, Vehicles, Real Estate, Student essentials) with multi-currency pricing (TRY, USD, EUR, GBP).
+- 💬 **Real-Time Messaging & Negotiations**: Instant buyer-seller chat with built-in price offer and negotiation mechanisms.
+- 📍 **Location-Based Filtering**: Search and filter listings by region and categories.
+- 🌐 **Multilingual Support (TR/EN)**: Native Turkish and English language localization.
+- 🔔 **Push Notifications**: Real-time Firebase Cloud Messaging (FCM) notifications for messages, offers, and price updates.
+- 🌙 **Dark & Light Themes**: Responsive UI designed with modern glassmorphism aesthetic.
+- ⚡ **High Performance Backend**: Real-time Firestore synchronization and Supabase CDN object storage.
 
 ---
 
@@ -53,7 +57,7 @@
 - **Web App**: Next.js (App Router), TailwindCSS, i18n
 - **Backend API**: NestJS, Node.js, Firebase Admin SDK
 - **Database & Storage**: Firebase Firestore (NoSQL), Supabase Storage
-- **Push Notifications**: Firebase Cloud Messaging (FCM)
+- **Notifications**: Firebase Cloud Messaging (FCM)
 
 ---
 
@@ -66,7 +70,7 @@
 
 ## 🏷️ Repository Topics
 
-Recommended GitHub topics for this project:
+Recommended GitHub topics for this repository:
 `react-native` • `typescript` • `firebase` • `ios` • `android` • `mobile` • `marketplace` • `nextjs` • `nestjs` • `expo`
 
 ---
