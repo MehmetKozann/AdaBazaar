@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might be created by the system
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
